@@ -1,0 +1,204 @@
+# Trilha Bootcamp Sportheca Mobile Developer 🥅
+
+⌚ Iniciado em: 09/02/2022
+
+⌚ Finalizar até: 30/03/2022
+
+🔋 5/42 | 11%
+
+
+
+**👩‍💻 Boas-vindas ao Bootcamp Sportheca Mobile Developer ✔**
+
+**👩‍💻  Mentoria #1: Aula inaugural - Bootcamp Sportheca Mobile Developer** ✔
+
+**👩‍💻  Pensamento Computacional ✔**
+
+**👩‍💻  Introdução ao Git e ao GitHub ✔**
+
+**👩‍💻  Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso ✔**
+
+**👩‍💻 Dominando IDEs Java ⚠**
+
+**👩‍💻 Estruturas de Dados em Java: Introdução⚠**
+
+**👩‍💻 Estruturas de Dados em Java: Pilhas e Filas⚠**
+
+**👩‍💻 Estruturas de Dados em Java: Listas ⚠**
+
+**👩‍💻 Estruturas de Dados em Java: Árvores⚠**
+
+**👩‍💻 Estruturas de Dados em Java: Principais Implementações ⚠**
+
+**👩‍💻 Introdução a orientação a objetos com Java ⚠**
+
+**👩‍💻 Criando um Banco Digital com Java e Orientação a Objetos⚠**
+
+**👩‍💻 Debugging Java ⚠**
+
+**👩‍💻 Tratamento de Exceções em Java  ⚠**
+
+**👩‍💻 Trabalhando com Collections Java ⚠**
+
+**👩‍💻 Desafios em Java - Sportheca ⚠**
+
+**👩‍💻 Abstraindo um Bootcamp usando Orientação a Objetos em Java ⚠**
+
+**👩‍💻 SQL SERVER - Criando suas primeiras consultas⚠**
+
+**👩‍💻 Modelando um banco de dados na prática com SQL SERVER⚠**
+
+**👩‍💻 Desenvolvimento Mobile Nativo Para Android⚠**
+
+**👩‍💻 Componentes, Layouts e UI/UX em Apps Android⚠**
+
+**👩‍💻 Java e Kotlin Juntos!? Construindo Apps Android⚠**
+
+**👩‍💻 Explorando o Firebase para Apps Android Resilientes ⚠**
+
+**👩‍💻 Introdução ao Kotlin⚠**
+
+**👩‍💻 Fundamentos de Orientação a Objetos com Kotlin⚠**
+
+**👩‍💻 Aplicando Conceitos de Coleções, Arrays e Listas ⚠**
+
+**👩‍💻 Trabalhando com o Android Studio e Principais Ferramentas ⚠**
+
+**👩‍💻 Projetando o primeiro aplicativo android usando Kotlin⚠**
+
+**👩‍💻 Melhores práticas para Debugging, Tratamento de Erros e Exceções⚠**
+
+**👩‍💻 Utilizando Recursos Nativos do Android⚠**
+
+**👩‍💻 Desmistificando o Android Studio na prática⚠**
+
+**👩‍💻 Criando um App de cartão de visitas em Kotlin⚠**
+
+**👩‍💻 Introdução a Arquitetura da plataforma Android com Kotlin⚠**
+
+**👩‍💻 Arquitetura MVVM na prática⚠**
+
+**👩‍💻 Aplicando TDD e Padrões de testes no desenvolvimento de aplicativos Android ⚠**
+
+**👩‍💻 Conceitos de navegação, aparência e estilo de aplicativos Android⚠**
+
+**👩‍💻 Princípios do desenvolvimento Kotlin com Clean Architecture e MVVM⚠**
+
+**👩‍💻 Desenvolvimento integrado de dados com SQLite no Android⚠**
+
+**👩‍💻 Desafios Sportheca⚠**
+
+**👩‍💻 Criando um App para apresentar seu portfólio do GitHub⚠**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
