@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-## 👩‍💻 **Desafio de Projeto sobre Git/GitHub**
+## 👩‍💻 **Desafio de Projeto sobre Git/GitHub da DIO**
 
 ### 🚀 **Este repositório é o meu primeiro repositório no GitHub.**
 #### 📖Seu objetivo é praticar toda a teoria de Git/GitHub que aprendi até aqui.
